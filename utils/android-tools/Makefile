@@ -12,7 +12,7 @@ PKG_NAME:=android-tools
 PKG_VERSION:=4.2.2
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/lkiuyu/android-tools.git
+PKG_SOURCE_URL:=https://github.com/feryw/android-tools.git
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
 PKG_SOURCE_VERSION:=6cea387346c9a49e0d7acbbe74f1cec62fcaec67
 PKG_MIRROR_HASH:=a8bf52d7892231e3fa91b9c91a116dc0b455de7bebce699871d7f9d96edefd8b
